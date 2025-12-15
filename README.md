@@ -1,2 +1,2 @@
-# Fripotheue
+# Fripotheque
 Fripotheque
